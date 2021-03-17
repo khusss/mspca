@@ -7,15 +7,17 @@ from stochastic processes and approximately decorrelate the autocorrelation amon
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/28721422/111423028-0280a800-8733-11eb-8a68-4726130eb542.PNG" width="61%">
-
-*Fig 1. Schematic illustration of MSPCA model[2].*
 </p>
+<div style="text-align:center">
+*Fig 1. Schematic illustration of MSPCA model[2].*
+</div>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/28721422/111423035-04e30200-8733-11eb-92b7-bf08f452ef56.PNG" width="61%">
-
-*Fig 2. Schematic diagram for multiscale representation of data[2].*
 </p>
+<div style="text-align:center">
+*Fig 2. Schematic diagram for multiscale representation of data[2].*
+</div>
 
 
 *******
