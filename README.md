@@ -38,7 +38,7 @@ The easiest way to install mspca is using 'pip'
 
 # Example
 
-    import mspca
+    from mspca import mspca
 
     mymodel = mspca.MultiscalePCA()
     x_pred = mymodel.fit_transform(X, wavelet_func='db4', threshold=0.3)
