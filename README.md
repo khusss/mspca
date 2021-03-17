@@ -10,7 +10,7 @@ from stochastic processes and approximately decorrelate the autocorrelation amon
 *Fig 1. Schematic illustration of MSPCA model[2].*
 
 
-![MSPCA_RESULT](./img/mspca_signal.png)
+![mspca_signal](https://user-images.githubusercontent.com/28721422/111423035-04e30200-8733-11eb-92b7-bf08f452ef56.PNG)
 
 *Fig 2. Schematic diagram for multiscale representation of data[2].*
 
@@ -43,9 +43,9 @@ The easiest way to install mspca is using 'pip'
     mymodel = mspca.MultiscalePCA()
     x_pred = mymodel.fit_transform(X, wavelet_func='db4', threshold=0.3)
 
-![example1](./img/example1.png)
-![example2](./img/example2.png)
-![example3](./img/example3.png)
+![example1](https://user-images.githubusercontent.com/28721422/111422652-5939b200-8732-11eb-9d92-e966191e2b72.PNG)
+![example2](https://user-images.githubusercontent.com/28721422/111422673-62c31a00-8732-11eb-9ff2-b74824fc62cb.PNG)
+![example3](https://user-images.githubusercontent.com/28721422/111423017-feed2100-8732-11eb-8c11-acf498dffef0.PNG)
 
 # Contact us
 Heeyu Kim / khudd@naver.com
