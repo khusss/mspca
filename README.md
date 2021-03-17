@@ -5,14 +5,17 @@ Multiscale PCA (MSPCA) combines the ability of PCA to extract the crosscorrelati
 between the variables, with that of orthonormal wavelets to separate deterministic features
 from stochastic processes and approximately decorrelate the autocorrelation among the measurements[1].
 
+<p align="center">
 <img src="https://user-images.githubusercontent.com/28721422/111423028-0280a800-8733-11eb-8a68-4726130eb542.PNG" width="61%">
 
 *Fig 1. Schematic illustration of MSPCA model[2].*
+</p>
 
-
+<p align="center">
 <img src="https://user-images.githubusercontent.com/28721422/111423035-04e30200-8733-11eb-92b7-bf08f452ef56.PNG" width="61%">
 
 *Fig 2. Schematic diagram for multiscale representation of data[2].*
+</p>
 
 
 *******
