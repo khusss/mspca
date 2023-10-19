@@ -127,7 +127,7 @@ class MultiscalePCA:
         if scale:
             x_pred = self.scaler.inverse_transform(res)
         else:
-            x_pred = result
+            x_pred = res
 
         return x_pred
 
@@ -161,7 +161,7 @@ class MultiscalePCA:
         if scale:
             x_hat = self.scaler.inverse_transform(res)
         else:
-            x_hat = result
+            x_hat = res
 
         self.fit_bool = True
 
